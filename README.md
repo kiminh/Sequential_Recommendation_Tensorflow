@@ -1,18 +1,18 @@
 # Sequential_Recommendation_Tensorflow
 Several sequential recommended models implemented by tenosrlfow1.x
 
-##简介
+## 简介
 基于Tensorflow自己动手实现的一些序列化推荐模型，有些模型别人实现过了，作为学习，还是对每个模型用最简单的方式亲自实现了一下。
 
 目前实现模型，FPMC，Caser，AttRec，TransRec，GRU4Rec
 
-##目录结构
+## 目录结构
 
-##使用说明
+## 使用说明
 
 进入models目录下运行run_Model.py即可
 
-##模型实验
+## 模型实验
 
 实验数据集: moivelens-1m
 
